@@ -39,4 +39,7 @@ Il arrive cependant que certaines questions (tel que le *Il faut s'adapter*) ent
 *En cours d'écriture*
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
+
 *En cours d'écriture*
+
+## Les experiences négatives et l'éveil de la raison
