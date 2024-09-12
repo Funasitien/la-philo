@@ -4,7 +4,7 @@ title: Libertés et Sacrifices
 
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**
-- 📆 Publié en XXXX
+- 📆 Publié en 1934
 
 # ☃️ Introduction
 *Es ce que l'homme ordinaire ne réfléchit pas du tout ?*
@@ -51,10 +51,11 @@ Contrairement au croyances naturelles, le conditionnement culturel est acquis du
 
 ### 🪗 La Langue
 
-La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter
+La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter.
+### 🌥 Kosmtheoros
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
 
 *En cours d'écriture*
 
-## Les experiences négatives et l'éveil de la raison
+## ☄️ Les experiences négatives et l'éveil de la raison
