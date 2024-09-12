@@ -29,14 +29,25 @@ Il y a bien deux manières de vivre **mais pas deux types d'hommes**.
 
 Il arrive cependant que certaines questions (tel que le *Il faut s'adapter*) entraîne **un éveil à la liberté**.
 # 1️⃣ La vie ordinaire - le <> accepté
-## 🌿 La Croyance Naturel
+Le premier paragraphe du texte incite sur la singularité du mode de pensé philosophique.
+## 🌿 La Croyance Naturelle
 > Synonymes : Opinion Originaire, Attitude Naturelle, Foix Perceptive
 
-*En cours d'écriture*
-## 🧩 Le Conditionnement Culturel
-> Synonymes :
+La **Croyance Naturelle** est une base que tout humain possède et acquis à la naissance. Elle inclut :
+- L'existence de soi et du monde
+- *Toute autre question (in)fondé ?*
 
-*En cours d'écriture*
+La philosophie née de **l'étonnement face à l'existence de ces croyances**.
+## 🧩 Le Conditionnement Culturel
+> Synonymes : Aucuns
+
+Contrairement au croyances naturelles, le conditionnement culturel est acquis durant l'existence d'un individu. Cela inclut :
+- Les traditions :
+   - L'opinion politique
+   - La religion, même até
+   - L'évolution technologie et temporelle
+
+> L'époque et les créations techniques nous influence dans le sens où la communication (avec les resaux sociaux & internet) qui ont drastiquement modifiés nos relations sociales.
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
 
