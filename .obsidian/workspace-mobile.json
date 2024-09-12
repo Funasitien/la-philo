@@ -10,13 +10,15 @@
           {
             "id": "5ea6c155291af1b0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/1RaisonLiberte/LiberteSacrifices.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
