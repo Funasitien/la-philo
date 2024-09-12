@@ -59,7 +59,7 @@ La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pe
 - 3
 
 ### 🌥 Kosmtheoros
-xxx
+Le Kosm**o**theoros est qqchose 
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
 
