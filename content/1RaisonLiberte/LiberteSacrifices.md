@@ -51,7 +51,10 @@ Contrairement au croyances naturelles, le conditionnement culturel est acquis du
 
 ### 🪗 La Langue
 
-La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter.
+La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter. La langue est composé de trois objets :
+- 1
+- 2
+- 3
 ### 🌥 Kosmtheoros
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
