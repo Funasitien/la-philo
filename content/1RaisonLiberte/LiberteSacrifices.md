@@ -68,6 +68,24 @@ La finitude est l'inverse du [[#🌥 Le Kosmotheoros|Kosmotheoros]], c'est juste
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
 
-*En cours d'écriture*
-
+Après avoir montré la finitude humaine et le conditionnement que tout les Hommes subissent, il s'agit de savoir ce qui va donner impulsion à la reflexion
 ## ☄️ Les experiences négatives et l'éveil de la raison
+
+Ce deuxième paragraphe explicite les différentes expériences négatives existantes :
+- Déception
+- Trahison
+- Mort Subite
+- Crise
+- Catastrophe 
+- Deuil
+
+Elle sont décrites comme un bouleversement, un Émébranlement, une "*supension dans le vide*". 
+
+Mais on peut se demander pourquoi les expériences négatives amènerais à la réflexion, alors qu'elle nous font plus penser au désarrois, à la tristesse...
+Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre en lumière celle des expériences d'évenements :
+
+|                FAIT                |                                           ÉVÉNEMENT                                            |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------: |
+|          Cause déterminé           |                          Pas de cause précise ou de raison suffisante                          |
+|  Continuité avec le monde commun   | Crise, ébranlement. Déstabilisation, transformation, ouverture ou naissance d'un nouveau monde |
+| Le fait en question est explicable |                                          Inexplicable                                          |
