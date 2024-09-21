@@ -2,6 +2,8 @@
 title: Libertés et Sacrifices
 ---
 
+[Nouvelle page](https://fiches.me/philo/LiberteSacrifices)
+
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**
 - 📆 Publié en 1934
